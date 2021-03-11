@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css?family=Comfortaa");
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 30vmin;
+}
+
+.headerRow {
+  background-color: #db0812;
+  margin-bottom: 20px;
+}
+
+.title {
+  color: rgb(0, 0, 0);
+  text-align: center;
+
+  font-size: 70px;
+  padding-top: 10px;
+}
+
+.mainContainer {
+  margin-top:20px;
+}
+
+.addRow {
+  margin-bottom: 50px;
+}
+
+.toDoText,
+.searchText {
+  width: 50%;
+  border: none;
+  margin: 0.7rem;
+  border-bottom: 0.02rem solid #ad5707;
+}
+
+
+
+.filterRow .btn-link {
+  color: rgb(25, 1, 238);
+  text-decoration: none !important;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+
+
+.list-group {
+  width: 100%;
+}
+
+.list-group-item {
+  border: none !important;
+}
+
+.listItemColToDo {
+  text-align: left;
+}
+
+.itemDeleteButton {
+  border-radius: 0 !important;
+  padding: 0.175rem 0.35rem !important;
+}
